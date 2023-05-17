@@ -1,0 +1,21 @@
+@import url(./style.css);
+.list {
+  list-style: none;
+  justify-content: flex-start;
+}
+.list ul li a {
+  border: 1px solid rgb(0, 119, 255);
+  text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  background-color: rgb(0, 119, 255);
+  border-radius: 25px;
+}
+
+.w-10 {
+  width: 10%;
+}
+
+hr {
+  color: rgb(0, 119, 255);
+}/*# sourceMappingURL=style.css.map */
